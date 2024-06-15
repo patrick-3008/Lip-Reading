@@ -1,0 +1,12 @@
+names:
+- Mouth
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: mouth-eyz0g
+  url: https://universe.roboflow.com/deep-learning-qbyqu/mouth-eyz0g/dataset/2
+  version: 2
+  workspace: deep-learning-qbyqu
+test: C:\Users\Patrickn\Jupyter_notebooks\Lip-Reading\MOUTH-2\test\images
+train: C:\Users\Patrickn\Jupyter_notebooks\Lip-Reading\MOUTH-2\train
+val: C:\Users\Patrickn\Jupyter_notebooks\Lip-Reading\MOUTH-2\valid\images
